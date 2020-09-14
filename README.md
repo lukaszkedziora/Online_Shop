@@ -17,7 +17,7 @@ Haven’t finished yet, before refactoring, needs improvement.
 
 - Just download and type: dotnet run in console or click play in Visual Studio.
 
-###Visual Studio
+### Visual Studio
 
 - Download Visual Studio 2019 (any edition) from <https://www.visualstudio.com/downloads/>.
 
